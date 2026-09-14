@@ -237,4 +237,4 @@ This repository serves as the official landing page for Google Earth Pro. The so
 **Get the most recent version of Google Earth Pro today!**
 
 ---
-**Last updated:** 2026-09-13 23:44:56 UTC
+**Last updated:** 2026-09-14 02:12:49 UTC
